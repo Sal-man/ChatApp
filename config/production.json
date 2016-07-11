@@ -1,0 +1,11 @@
+{
+	"dbURL" : "mongodb://ratchatuser:password@ds015335.mlab.com:15335/ratchat",
+	"sessionSecret" : "LKJDOIJDLKDSJLFKJDFOIDF978",
+	"fb" : {
+		"appID" : "155369244873062",
+		"appSecret" : "882031f07bdd26edee38ce0fddad202b",
+		"callbackURL" : "https://ratchat.herokuapp.com/auth/facebook/callback"
+	},
+	"host" : "https://ratchat.herokuapp.com"
+
+}
